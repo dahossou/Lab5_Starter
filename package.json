@@ -9,3 +9,5 @@
   "jest": {
     "transform": {},
     "verbose": true
+  }
+}
