@@ -3,6 +3,7 @@ Daniel Ahossou <br>
 Jeremy Su
 
 [expose.html](https://dahossou.github.io/Lab5_Starter/expose.html)
+
 [explore.html](https://dahossou.github.io/Lab5_Starter/explore.html)
 
 ## Questions
