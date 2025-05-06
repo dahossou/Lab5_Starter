@@ -60,4 +60,3 @@ speakButton.addEventListener('click', () => {
   utterance.addEventListener('end', () => {
     image.src = closedImage;
   });
-});
